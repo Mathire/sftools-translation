@@ -17,7 +17,7 @@ I recommend to install on your PC:
 3. Use `git remote add upstream https://github.com/HafisCZ/sf-tools.git` to add mar21 repo as upstream;
 4. Use `git remote -v` to check if everything is working;
 
-![git remote-v](\res\git_remote-v.png)
+![git remote-v](/res/git_remote-v.png)
 
 ## Translating
 
@@ -40,7 +40,7 @@ It will look like this:
 
 Now you can start translating by copying the parts that are missing and changing the translation:
 
-![compare](\res\example_after-paste.png)
+![compare](/res/example_after-paste.png)
 
 
 Once you finished, it's time to test it. Save your files, close notepad ++ and go to sf-tools directory.
@@ -50,7 +50,7 @@ Sftools site should load, now you can check your translations (ctrl + c in your 
 
 Note: if the site is broken, you probably missed / added some commas in <your lang>.json .
 
-![http-server](\res\http-server_launch.png)
+![http-server](/res/http-server_launch.png)
 
 If everything works, you can commit changes.
 

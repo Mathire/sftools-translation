@@ -1,5 +1,9 @@
 # How to translate SFTools
 
+**NOTE: As of February 2023, SFTools translation has been completely moved to [CrowdIn](https://crowdin.com/project/sftools). If you want to contribute, there's a page on the Wiki with a short [tutorial](https://github.com/HafisCZ/sf-tools/wiki/Translation-Guide).**
+
+___
+
 This short tutorial will demonstrate how to effectively contribute to the translation for [SFTools](sftools.mar21.eu).
 
 ## Requirements
